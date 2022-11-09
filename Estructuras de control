@@ -1,0 +1,20 @@
+// SWITCH
+
+let estaciones = "adasd"
+switch (estaciones) {
+    case "verano":
+        console.log("Estamos en Verano!");
+        break;
+    case "otoño":
+        console.log("Estamos en Otoño!");
+        break;
+    case "invierno":
+        console.log("Estamos en Invierno!");
+        break;
+    case "primavera":
+        console.log("Estamos en primavera!");
+        break;
+    default: 
+        console.log("La estacion no existe.");
+        
+ }
