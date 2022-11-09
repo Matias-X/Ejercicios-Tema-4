@@ -1,3 +1,21 @@
+
+// IF
+
+let numeroIf = -6;
+ if (numeroIf > 0) {
+    console.log("Este numero es positivo!");
+} else if (numeroIf < 0) {
+    console.log("Este numero es negativo!");
+} else {
+    console.log("Este numero es igual a 0");
+}
+
+
+// WHILE
+
+
+
+
 // SWITCH
 
 let estaciones = "adasd"
