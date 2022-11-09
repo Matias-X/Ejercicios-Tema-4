@@ -13,8 +13,27 @@ let numeroIf = -6;
 
 // WHILE
 
+let numeroWhile = 0;
+    while (numeroWhile < 3) {
+        numeroWhile++;
+        console.log(numeroWhile);
+    }
 
+// DO WHILE
 
+let numero = 2;
+ do { 
+     numero++;
+     console.log(numero);
+ }
+    while(numero < 3)
+
+// FOR
+
+for (let numeroFor=0; numeroFor<=3; numeroFor++){
+     console.log(numeroFor);
+ }
+    
 
 // SWITCH
 
